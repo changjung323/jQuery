@@ -1,0 +1,10 @@
+#box1, #box2{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(81, 171, 255);
+}
+
+
+.gold{
+    background-color: gold !important;
+}
